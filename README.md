@@ -18,6 +18,7 @@ A simple hub linking manicminerwd's interactive practice exams and training modu
 - **PMI-PMOCP** — PMO Certified Professional: https://manicminerwd.github.io/pmocp-practice-exam/
 - **APMP Foundation (CF APMP)** — Bid/Proposal Management: https://manicminerwd.github.io/apmp-foundation-practice-exam/
 - **AgilePM Foundation** — DSDM / Agile Project Management: https://manicminerwd.github.io/agilepm-foundation-practice-exam/
+- **Certified ScrumMaster (CSM)** — Scrum Alliance: https://manicminerwd.github.io/scrum-master-practice-exam/
 
 ## Other Certifications
 - **CRT-101 / ADM-201** — Salesforce Certified Platform Administrator: https://manicminerwd.github.io/salesforce-admin-practice-exam/
@@ -41,5 +42,5 @@ A simple hub linking manicminerwd's interactive practice exams and training modu
 
 ## Notes
 - Live landing page: https://manicminerwd.github.io/practice-exams/
-- Self-made study companions, not official products of the certification bodies named above (Microsoft, Salesforce, ISACA, AWS, PMI, APMG/PeopleCert, AXELOS, EC-Council, The Open Group, EPI). They pair well with each body's official exam guides and study materials.
+- Self-made study companions, not official products of the certification bodies named above (Microsoft, Salesforce, ISACA, AWS, PMI, APMG/PeopleCert, AXELOS, EC-Council, The Open Group, EPI, Scrum Alliance). They pair well with each body's official exam guides and study materials.
 - Each exam app tracks your progress locally and shows a per-domain breakdown with a weakest-area study list at the end.
