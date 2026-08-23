@@ -11,6 +11,7 @@ A simple hub linking manicminerwd's interactive practice exams and training modu
 - **SC-900** — Security, Compliance & Identity Fundamentals: https://manicminerwd.github.io/sc900-practice-exam/
 - **AZ-104** — Azure Administrator Associate: https://manicminerwd.github.io/az104-practice-exam/
 - **AZ-500** — Azure Security Technologies: https://manicminerwd.github.io/az500-practice-exam/
+- **AZ-305** — Azure Solutions Architect Expert (design): https://manicminerwd.github.io/azure-solutions-architect-practice-exam/
 
 ## Project Management
 - **PRINCE2 Foundation** — PRINCE2 7th Edition: https://manicminerwd.github.io/prince2-foundation-practice-exam/
