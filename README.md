@@ -24,6 +24,7 @@ A simple hub linking manicminerwd's interactive practice exams and training modu
 - **CISM** — Certified Information Security Manager (ISACA): https://manicminerwd.github.io/cism-practice-exam/
 - **CRISC** — Certified in Risk and Information Systems Control (ISACA): https://manicminerwd.github.io/crisc-practice-exam/
 - **COBIT 2019 Foundation** (ISACA): https://manicminerwd.github.io/cobit-foundation-practice-exam/
+- **CGEIT** — Certified in the Governance of Enterprise IT (ISACA): https://manicminerwd.github.io/cgeit-practice-exam/
 - **ITIL 4 Foundation** (AXELOS/PeopleCert): https://manicminerwd.github.io/itil4-foundation-practice-exam/
 - **AWS Cloud Practitioner (CLF-C02)**: https://manicminerwd.github.io/aws-cloud-practitioner-practice-exam/
 - **AWS AI Practitioner (AIF-C01)**: https://manicminerwd.github.io/aws-ai-practitioner-practice-exam/
