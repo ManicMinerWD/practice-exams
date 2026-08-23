@@ -9,6 +9,7 @@ A simple hub linking manicminerwd's interactive practice exams and training modu
 - **AB-731** — AI Transformation Leader: https://manicminerwd.github.io/ab731-practice-exam/
 - **AZ-900** — Azure Fundamentals: https://manicminerwd.github.io/az900-practice-exam/
 - **SC-900** — Security, Compliance & Identity Fundamentals: https://manicminerwd.github.io/sc900-practice-exam/
+- **AZ-104** — Azure Administrator Associate: https://manicminerwd.github.io/az104-practice-exam/
 
 ## Project Management
 - **PRINCE2 Foundation** — PRINCE2 7th Edition: https://manicminerwd.github.io/prince2-foundation-practice-exam/
