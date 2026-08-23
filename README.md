@@ -29,6 +29,7 @@ A simple hub linking manicminerwd's interactive practice exams and training modu
 - **AWS AI Practitioner (AIF-C01)**: https://manicminerwd.github.io/aws-ai-practitioner-practice-exam/
 - **CISA** — Certified Information Systems Auditor (ISACA): https://manicminerwd.github.io/cisa-practice-exam/
 - **CCISO** — Certified Chief Information Security Officer (EC-Council): https://manicminerwd.github.io/cciso-practice-exam/
+- **Security+ (SY0-701)** — CompTIA: https://manicminerwd.github.io/securityplus-practice-exam/
 - **TOGAF 10 Foundation** (The Open Group): https://manicminerwd.github.io/togaf-foundation-practice-exam/
 - **CDFOM (Exam A)** — Certified Data Center Facilities Operations Manager (EPI): https://manicminerwd.github.io/cdfom-practice-exam/
 - **CDFOM (Exam B)** — Second CDFOM practice set (EPI): https://manicminerwd.github.io/cdfom-practice-exam-2/
