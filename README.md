@@ -20,6 +20,7 @@ A simple hub linking manicminerwd's interactive practice exams and training modu
 - **APMP Foundation (CF APMP)** — Bid/Proposal Management: https://manicminerwd.github.io/apmp-foundation-practice-exam/
 - **AgilePM Foundation** — DSDM / Agile Project Management: https://manicminerwd.github.io/agilepm-foundation-practice-exam/
 - **Certified ScrumMaster (CSM)** — Scrum Alliance: https://manicminerwd.github.io/scrum-master-practice-exam/
+- **PMI-ACP** — Agile Certified Practitioner (PMI): https://manicminerwd.github.io/pmi-acp-practice-exam/
 
 ## Other Certifications
 - **CRT-101 / ADM-201** — Salesforce Certified Platform Administrator: https://manicminerwd.github.io/salesforce-admin-practice-exam/
