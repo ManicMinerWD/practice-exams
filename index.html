@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Practice Exams &amp; Training — Warren Duncan</title>
+<style>
+:root{--bg:#0b1020;--card:#151c2e;--fg:#e8ecf5;--muted:#9aa6c0;--accent:#6ea8fe;--good:#3ecf8e;--line:#26304a}
+*{box-sizing:border-box}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--fg);line-height:1.55}
+header{padding:46px 22px 30px;text-align:center;border-bottom:1px solid var(--line)}
+header h1{font-size:1.9rem;margin:0 0 8px;font-weight:700}
+header p{color:var(--muted);margin:0;max-width:620px;margin:0 auto;font-size:.98rem}
+.badge{display:inline-block;margin-top:14px;background:#1d2742;border:1px solid var(--line);color:var(--muted);padding:4px 12px;border-radius:999px;font-size:.78rem}
+main{max-width:1000px;margin:0 auto;padding:34px 22px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px;display:flex;flex-direction:column;gap:10px;transition:.15s;text-decoration:none;color:inherit}
+.card:hover{border-color:var(--accent);transform:translateY(-2px)}
+.card .tag{font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;color:var(--accent);font-weight:600}
+.card h2{margin:2px 0 0;font-size:1.2rem}
+.card .desc{color:var(--muted);font-size:.9rem;flex:1}
+.card .meta{display:flex;gap:8px;flex-wrap:wrap;margin-top:4px}
+.chip{background:#1b2540;border:1px solid var(--line);color:var(--muted);font-size:.74rem;padding:3px 9px;border-radius:999px}
+.card .go{margin-top:8px;font-size:.9rem;color:var(--accent);font-weight:600}
+.section-title{margin:38px 0 14px;font-size:1.05rem;color:var(--fg);font-weight:650}
+.note{margin-top:30px;padding:16px;border:1px solid var(--line);border-radius:10px;background:#101a30;color:var(--muted);font-size:.85rem}
+.note a{color:var(--accent)}
+footer{padding:26px 22px;color:var(--muted);font-size:.78rem;border-top:1px solid var(--line);text-align:center}
+</style></head>
+<body>
+<header>
+  <h1>Practice Exams &amp; Training</h1>
+  <p>Self-paced study companions built by Warren Duncan — interactive practice exams and a training module, grounded in official certification outlines.</p>
+  <span class="badge">4 resources · all free &amp; open</span>
+</header>
+
+<main>
+  <div class="section-title">Practice Exams</div>
+  <div class="grid">
+    <a class="card" href="https://manicminerwd.github.io/ab100-practice-exam/" target="_blank" rel="noopener">
+      <span class="tag">Microsoft · Beta</span>
+      <h2>AB-100</h2>
+      <div class="desc">Agentic AI Business Solutions Architect — plan, design &amp; deploy AI agents across the Microsoft stack (A2A, MCP, Foundry, Copilot Studio).</div>
+      <div class="meta"><span class="chip">70 questions</span><span class="chip">100 min</span><span class="chip">Pie + focus area</span></div>
+      <div class="go">Open exam →</div>
+    </a>
+    <a class="card" href="https://manicminerwd.github.io/ab410-practice-exam/" target="_blank" rel="noopener">
+      <span class="tag">Microsoft</span>
+      <h2>AB-410</h2>
+      <div class="desc">Intelligent Applications Builder Associate — building intelligent apps with Copilot Studio, agents, and Power Platform.</div>
+      <div class="meta"><span class="chip">70 questions</span><span class="chip">120 min</span><span class="chip">Pie + focus area</span></div>
+      <div class="go">Open exam →</div>
+    </a>
+    <a class="card" href="https://manicminerwd.github.io/salesforce-admin-practice-exam/" target="_blank" rel="noopener">
+      <span class="tag">Salesforce</span>
+      <h2>CRT-101 / ADM-201</h2>
+      <div class="desc">Certified Platform Administrator — full 8-domain scope: config, objects, automation, data &amp; analytics, Agentforce and more.</div>
+      <div class="meta"><span class="chip">70 questions</span><span class="chip">105 min</span><span class="chip">Pie + focus area</span></div>
+      <div class="go">Open exam →</div>
+    </a>
+  </div>
+
+  <div class="section-title">Training Module</div>
+  <div class="grid">
+    <a class="card" href="https://manicminerwd.github.io/salesforce-admin-training/" target="_blank" rel="noopener">
+      <span class="tag">Salesforce · Full course</span>
+      <h2>Platform Administrator Training</h2>
+      <div class="desc">Udemy-style training module covering the entire CRT-101 scope across 8 domains and 42 lessons, with diagrams, exam callouts, and video slots.</div>
+      <div class="meta"><span class="chip">8 domains</span><span class="chip">42 lessons</span><span class="chip">Progress tracking</span></div>
+      <div class="go">Open module →</div>
+    </a>
+  </div>
+
+  <div class="note">
+    These are self-made study companions, not official products of Microsoft or Salesforce. They pair well with the official exam guides:
+    <a href="https://learn.microsoft.com/en-us/credentials/certifications/exams/ab-100/" target="_blank" rel="noopener">AB-100</a>,
+    <a href="https://learn.microsoft.com/en-us/credentials/certifications/exams/ab-410/" target="_blank" rel="noopener">AB-410</a>, and the
+    <a href="https://trailhead.salesforce.com/" target="_blank" rel="noopener">Salesforce Trailhead</a> / Exam Guide.
+    Each exam app tracks your progress locally and shows a per-domain breakdown with a weakest-area study list at the end.
+  </div>
+</main>
+
+<footer>
+  Built with Hermes Agent · Warren Duncan · 2026
+</footer>
+</body></html>
