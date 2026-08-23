@@ -36,11 +36,12 @@ A simple hub linking manicminerwd's interactive practice exams and training modu
 - **TOGAF 10 Foundation** (The Open Group): https://manicminerwd.github.io/togaf-foundation-practice-exam/
 - **CDFOM (Exam A)** — Certified Data Center Facilities Operations Manager (EPI): https://manicminerwd.github.io/cdfom-practice-exam/
 - **CDFOM (Exam B)** — Second CDFOM practice set (EPI): https://manicminerwd.github.io/cdfom-practice-exam-2/
+- **CCNA (200-301)** — Cisco Certified Network Associate: https://manicminerwd.github.io/ccna-practice-exam/
 
 ## Training Module
 - **Salesforce Platform Administrator Training** (full 8-domain course): https://manicminerwd.github.io/salesforce-admin-training/
 
 ## Notes
 - Live landing page: https://manicminerwd.github.io/practice-exams/
-- Self-made study companions, not official products of the certification bodies named above (Microsoft, Salesforce, ISACA, AWS, PMI, APMG/PeopleCert, AXELOS, EC-Council, The Open Group, EPI, Scrum Alliance). They pair well with each body's official exam guides and study materials.
+- Self-made study companions, not official products of the certification bodies named above (Microsoft, Salesforce, ISACA, AWS, PMI, APMG/PeopleCert, AXELOS, EC-Council, The Open Group, EPI, Scrum Alliance, Cisco). They pair well with each body's official exam guides and study materials.
 - Each exam app tracks your progress locally and shows a per-domain breakdown with a weakest-area study list at the end.
