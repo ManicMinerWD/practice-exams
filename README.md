@@ -30,6 +30,7 @@ A simple hub linking manicminerwd's interactive practice exams and training modu
 - **ITIL 4 Foundation** (AXELOS/PeopleCert): https://manicminerwd.github.io/itil4-foundation-practice-exam/
 - **AWS Cloud Practitioner (CLF-C02)**: https://manicminerwd.github.io/aws-cloud-practitioner-practice-exam/
 - **AWS AI Practitioner (AIF-C01)**: https://manicminerwd.github.io/aws-ai-practitioner-practice-exam/
+- **AWS Solutions Architect (SAA-C03)** — Associate: https://manicminerwd.github.io/aws-solutions-architect-practice-exam/
 - **CISA** — Certified Information Systems Auditor (ISACA): https://manicminerwd.github.io/cisa-practice-exam/
 - **CCISO** — Certified Chief Information Security Officer (EC-Council): https://manicminerwd.github.io/cciso-practice-exam/
 - **Security+ (SY0-701)** — CompTIA: https://manicminerwd.github.io/securityplus-practice-exam/
